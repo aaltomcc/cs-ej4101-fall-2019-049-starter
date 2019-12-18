@@ -1,3 +1,4 @@
 # Hello website
 This is Otto's diary!
-[Back](index.md)
+
+[Back to home](index.md)
